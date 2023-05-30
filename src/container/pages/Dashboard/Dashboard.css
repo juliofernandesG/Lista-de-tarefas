@@ -1,0 +1,130 @@
+.cardbody{
+    margin-top: 20%;
+    background-color: #1D1F2B;
+    color: white;
+    border-radius: 20px 20px 20px 20px;
+    
+}
+
+Label{
+    text-align: left;
+    
+}
+
+.waktu{
+    text-align: left;
+}
+
+.akhir{
+    visibility: hidden;
+}
+.hubung{
+    text-align: center;
+}
+.cardfooter{
+    margin-top:20px;
+}
+
+.waktuStart{
+    display: block;
+    width: 100%;
+    background-color: #3A3E52;
+    border: none;
+    height: 35px;
+    color: white;
+    font-size: 15px;
+}
+
+
+.inputs{
+    margin-top:20px;
+    text-align: left;
+}
+
+input{
+    display: block;
+    width: 100%;
+    background-color: #3A3E52;
+    border: none;
+    height: 35px;
+    color: white;
+}
+
+textarea{
+    display: block;
+    width: 100%;
+    background-color: #3A3E52;
+    border: none;
+    color: white;
+}
+
+button{
+    width: 100%;
+    background-color: #3A3E52;
+    color: white;
+    border: none;
+    height: 35px;
+    cursor: pointer;
+}:disabled{
+    background-color: green;
+    cursor: text;
+}
+
+.disable {
+    background-color: white;
+    color: black;
+    cursor: not-allowed;
+}
+
+hr{
+    background-color: white;
+}
+
+.list{
+    color: black;
+}
+
+.cardList{
+    border-radius: 20px 20px 20px 20px;
+    background-color: #1D1F2B;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+}
+
+
+.time{
+    text-align: right;
+}
+
+.cardTeks{
+    margin-top: 10px;
+}
+.modals{
+    text-align: center;
+}
+.confirm{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.modalHeader{
+    background-color: #1D1F2B;
+    color: white;
+    
+}
+
+.closeModal{
+    text-align: right;
+    cursor: pointer;
+}
+
+.edit{
+    text-align: right;
+    cursor: pointer;
+}
+
+
+
+
+

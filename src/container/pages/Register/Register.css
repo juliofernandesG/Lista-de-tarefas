@@ -1,0 +1,44 @@
+.cardbody{
+    margin-top: 20%;
+    background-color: #1D1F2B;
+    color: white;
+    border-radius: 20px 20px 20px 20px;
+    
+}
+
+.info{
+    text-align: left;
+}
+
+.cardfooter{
+    margin-top:20px;
+}
+
+.inputs{
+    margin-top:20px;
+    text-align: left;
+}
+
+input{
+    display: block;
+    width: 100%;
+    background-color: #3A3E52;
+    border: none;
+    height: 35px;
+    color: white;
+}
+
+button{
+    width: 100%;
+    /* text-align: right; */
+    background-color: #3A3E52;
+    color: white;
+    border: none;
+    height: 35px;
+}
+
+.disable {
+    background-color: white;
+    color: black;
+    cursor: not-allowed;
+}
