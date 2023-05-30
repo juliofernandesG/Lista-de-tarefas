@@ -3,7 +3,7 @@ import { CardBody, Label, CardTitle, CardText } from 'reactstrap';
 import './Dashboard.css';
 import { addDataToFirebase, getDataFromFirebase, updateDataFirebase, deleteDataFirebase, updateStatusFirebase, logOut } from '../../../config/redux/action';
 import { connect } from 'react-redux';
-import { FadeTransform } from 'react-animation-components'
+// import { FadeTransform } from 'react-animation-components'
 
 
 class Dashboard extends Component {
